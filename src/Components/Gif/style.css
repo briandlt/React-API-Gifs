@@ -1,0 +1,11 @@
+.gif-container{
+  display: flex;
+  flex-direction: column;
+  border: 2px #fff solid;
+  padding: 30px 50px;
+}
+
+img{
+  width: 500px;
+  margin: auto;
+}
